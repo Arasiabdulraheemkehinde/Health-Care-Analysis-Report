@@ -1,6 +1,6 @@
 ## Healthcare Wait List Analysis
 
-This repository contains a detailed analysis of healthcare wait list trends, category-specific wait lists, wait list by age and time band, and additional recommendations to improve efficiency and reduce wait times.
+This repository contains a detailed analysis of healthcare wait list trends, category-specific wait lists, wait list by age and time band, and  recommendations to improve efficiency and reduce wait times using power BI
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@ This repository contains a detailed analysis of healthcare wait list trends, cat
   - [Overall Wait List Trends](#overall-wait-list-trends)
   - [Category-specific Wait Lists](#category-specific-wait-lists)
   - [Wait List by Age and Time Band](#wait-list-by-age-and-time-band)
-- [Additional Recommendations](#additional-recommendations)
+- [ Recommendations](#Recommendations)
   - [Improving Efficiency and Reducing Wait Times](#improving-efficiency-and-reducing-wait-times)
   - [Resource and Staff Management](#resource-and-staff-management)
   - [Data-Driven Decision Making](#data-driven-decision-making)
@@ -65,4 +65,6 @@ The analysis of the healthcare wait list data from 2018 to 2021 reveals a growin
 
 By implementing targeted strategies, such as optimizing processes, expanding telehealth services, and improving resource management, healthcare providers can better manage wait lists and enhance patient care. Regular monitoring and data-driven decision-making are crucial in adapting to changing demands and ensuring efficient service delivery.
 
-These insights, when visualized in Power BI, provide a comprehensive view of the healthcare system's performance, enabling stakeholders to identify areas for improvement and implement effective solutions.
+
+!<img width="641" alt="health care Screenshot 1" src="https://github.com/user-attachments/assets/15aa4ac6-df5e-4d3c-a7ff-d54cd7396609">
+!<img width="641" alt="Health care Screenshot 2" src="https://github.com/user-attachments/assets/e6dad919-0cba-4c55-a80a-48b3149f3ef0">
